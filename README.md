@@ -28,9 +28,6 @@ Por padrão os storages ficam todos montados no diretório `/mnt` da headnode e 
 | Equallogic          | 15              | LIM43         |
 | LIM100T             | 100             | n/a           |
 
-### Ambientes conda
-
-
 ## Conteúdo
 
   * [Exercicio 1](exercicio1/README.md)
