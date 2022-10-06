@@ -28,6 +28,9 @@ Por padrão os storages ficam todos montados no diretório `/mnt` da headnode e 
 | Equallogic          | 15              | LIM43         |
 | LIM100T             | 100             | n/a           |
 
+### Ambientes conda
+
+
 ## Conteúdo
 
   * [Exercicio 1](exercicio1/README.md)
@@ -36,23 +39,7 @@ Por padrão os storages ficam todos montados no diretório `/mnt` da headnode e 
   * [Exercicio 4](exercicio4/README.md)
   * [Exercicio 5](exercicio5/README.md)
   * [Exercicio 6](exercicio6/README.md)
-
-## Comandos Básicos
-
-### Verificando estado dos nós de processamento
-
-```bash
-sinfo
-```
-
-### Verificando partições (filas)
-
-```bash
-squeue
-```
-
-### Comando básico para submeter jobs
-
-```bash
-sbatch -p <partição> <script-job>
-```
+  * Documentação
+    * [SLURM: Comandos básicos](docs/slurm-basic-commands.md)
+    * [SLURM para usuários PBS](docs/pbs-to-slurm.md)
+    * [Conda: comandos básicos](docs/conda-basic-commands.md)
