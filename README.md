@@ -17,6 +17,8 @@ Este repositório contém uma documentação básica de uso do GRID de HPC do HC
 | node02              | Intel(R) Xeon(R) CPU E5506  @ 2.13GHz | 8       | 16               |
 | node03              | AMD Opteron(TM) Processor 6234        | 24      | 32               |
 | node04              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               |
+| node05              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 24               |
+| node06              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               |
 
 ### Armazenamento
 
