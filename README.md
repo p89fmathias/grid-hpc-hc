@@ -32,12 +32,12 @@ Por padrão os storages ficam todos montados no diretório `/mnt` da headnode e 
 
 ## Conteúdo
 
-  * [Exercicio 1](exercicio1/README.md)
-  * [Exercicio 2](exercicio2/README.md)
-  * [Exercicio 3](exercicio3/README.md)
-  * [Exercicio 4](exercicio4/README.md)
-  * [Exercicio 5](exercicio5/README.md)
-  * [Exercicio 6](exercicio6/README.md)
+  * [Exercicio 1](exercicio1/README.md) - uso básico
+  * [Exercicio 2](exercicio2/README.md) - gerenciando os logs do job
+  * [Exercicio 3](exercicio3/README.md) - solicitando recursos (cpu e memoria)
+  * [Exercicio 4](exercicio4/README.md) - solicitando funcionalidades personalizadas (não programáticos)
+  * [Exercicio 5](exercicio5/README.md) - definindo a partição (fila) correta
+  * [Exercicio 6](exercicio6/README.md) - criando uma lista de jobs e colocando na fila para processamento
   * Documentação
     * [SLURM: Comandos básicos](docs/slurm-basic-commands.md)
     * [SLURM para usuários PBS](docs/pbs-to-slurm.md)
