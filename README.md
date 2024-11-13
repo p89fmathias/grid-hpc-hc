@@ -32,6 +32,7 @@ Por padrão os storages ficam todos montados no diretório `/mnt` da headnode e 
 
 ## Conteúdo
 
+  * [Primeiros Passos](basic/README.md) - primeiros passos
   * [Exercicio 1](exercicio1/README.md) - uso básico
   * [Exercicio 2](exercicio2/README.md) - gerenciando os logs do job
   * [Exercicio 3](exercicio3/README.md) - solicitando recursos (cpu e memoria)
