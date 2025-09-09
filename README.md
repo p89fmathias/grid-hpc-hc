@@ -11,16 +11,16 @@ Este repositório contém uma documentação básica de uso do GRID de HPC do HC
 
 ### Processamento
 
-| Nó de processamento | CPU                                   | # cores | Memória RAM (GB) |          GPU          |
-| ------------------- | ------------------------------------- | ------- | ---------------- |-----------------------|
-| node01              | Intel(R) Xeon(R) CPU E5530  @ 2.40GHz | 16      | 64               |           -           |
-| node02              | Intel(R) Xeon(R) CPU E5506  @ 2.13GHz | 8       | 16               |           -           |
-| node03              | AMD Opteron(TM) Processor 6234        | 24      | 32               |           -           |
-| node04              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               |           -           |
-| node05              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 32      | 64               |           -           |
-| node06              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               |           -           |
-| node07              | AMD EPYC 7713P 64-Core Processor      | 128     | 512              |    Nvidia A16 (x4)    |
-| node08              | AMD EPYC 7713 64-Core Processor       | 128     | 512              |    Nvidia RTX 4000    |
+| Nó de processamento | CPU                                   | # cores | Memória RAM (GB) |           GPU           |
+| ------------------- | ------------------------------------- | ------- | ---------------- |-------------------------|
+| node01              | Intel(R) Xeon(R) CPU E5530  @ 2.40GHz | 16      | 64               |            -            |
+| node02              | Intel(R) Xeon(R) CPU E5506  @ 2.13GHz | 8       | 16               |            -            |
+| node03              | AMD Opteron(TM) Processor 6234        | 24      | 32               |            -            |
+| node04              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               | GF100GL - Tesla M2070-Q |
+| node05              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 32      | 64               |            -            |
+| node06              | Intel(R) Xeon(R) CPU X5675  @ 3.07GHz | 24      | 64               | GF100GL - Tesla M2070-Q |
+| node07              | AMD EPYC 7713P 64-Core Processor      | 128     | 512              |     Nvidia A16 (x4)     |
+| node08              | AMD EPYC 7713 64-Core Processor       | 128     | 512              |     Nvidia RTX 4000     |
 
 ### Armazenamento
 
